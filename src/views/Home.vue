@@ -10,7 +10,7 @@
                             seu BackEnd. Baixe a versão 1.0 clicando no botão abaixo.
                         </p>
                         <v-row class="text-center" justify-center align-center>
-                            <a href="https://homolog-net.sesc.com.br/tipografia/design-system/downloads/SK-1.1.zip">
+                            <a href="https://github.com/sescdn/starter-kit">
                             <v-btn depressed class="text-capitalize ml-2" color="primary">Starter Kit 1.1</v-btn>
                             </a>
                         </v-row>
@@ -18,7 +18,7 @@
                 </v-row>
             </v-card>
             <div class="display-1 grey--text mb-5">O que é um Design System?</div>
-            <v-img src="/img-design-system.jpg" />
+            <v-img src="img-design-system.jpg" />
                 <v-row wrap>
                     <v-col cols="12">
                         <p>

@@ -13,7 +13,7 @@
                 <li>Possibilidade de tema escuro.</li>
             </ul>
             <br>
-            <a href="https://homolog-net.sesc.com.br/tipografia/design-system/downloads/DS-1.2.zip">
+            <a href="https://github.com/sescdn/starter-kit">
               <v-btn depressed class="text-capitalize ml-2" color="primary">DS v1.2</v-btn>
             </a>
           </v-card>
@@ -30,7 +30,7 @@
                 <li>Atualização do Vuetify 2.0.</li>
             </ul>
             <br>
-            <a href="https://homolog-net.sesc.com.br/tipografia/design-system/downloads/DS-1.1.zip">
+            <a href="https://github.com/sescdn/starter-kit">
               <v-btn depressed class="text-capitalize ml-2" color="primary">DS v1.1</v-btn>
             </a>
           </v-card>
@@ -47,7 +47,7 @@
                 <li>Somente suportável se utilizado na versão 1.5 do Vuetify e do Vue CLI 2.0.</li>
             </ul>
             <br>
-            <a href="https://homolog-net.sesc.com.br/tipografia/design-system/downloads/DS-1.0.zip">
+            <a href="https://github.com/sescdn/starter-kit">
               <v-btn depressed class="text-capitalize ml-2" color="primary">DS v1.0</v-btn>
             </a>
           </v-card>
@@ -70,7 +70,7 @@
                   <li>Modal</li>
               </ul>
             </p>
-            <a href="https://homolog-net.sesc.com.br/tipografia/design-system/downloads/SK-1.1.zip">
+            <a href="https://github.com/sescdn/starter-kit">
               <v-btn depressed class="text-capitalize ml-2" color="primary">StarterKit v1.1</v-btn>
             </a>
           </v-card>
@@ -89,7 +89,7 @@
                   <li>Formulário para cadastros</li>
               </ul>
             </p>
-            <a href="https://homolog-net.sesc.com.br/tipografia/design-system/downloads/SK-1.0.zip">
+            <a href="https://github.com/sescdn/starter-kit">
               <v-btn depressed class="text-capitalize ml-2" color="primary">StarterKit v1.0</v-btn>
             </a>
           </v-card>
