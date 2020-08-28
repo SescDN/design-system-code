@@ -1,29 +1,30 @@
-# teste_ds_ts
+# Design System do Departamento Nacional do Serviço Social do Comércio - SESC
 
-## Project setup
+## Este arquivo contém todo o design system com seus componentes, dependências e especificações.
+
+## Para iniciar o projeto e instalar as dependências:
 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Para compilar o projeto:
 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-
+### Compilar e minificar os arquivos para produção:
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lints e fix em arquivos:
 
 ```
 npm run lint -- --fix
 ```
 
-### Customize configuration
+### Informações, ver referências no Vue e Vuetify
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Veja [Referências aqui](https://cli.vuejs.org/config/).
